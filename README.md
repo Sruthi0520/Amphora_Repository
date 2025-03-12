@@ -1,1 +1,1 @@
-# Amphora_Repository
+This repository contains a Cypress framework set up for UI and API tests using Cypress BDD (Behavior-Driven Development) and Page Object Model (POM). This framework is structured to support easy maintenance and scalability of tests by separating the concerns of the page structure and business logic.
